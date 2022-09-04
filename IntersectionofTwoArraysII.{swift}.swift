@@ -26,9 +26,6 @@ func intersect(_ nums1: [Int], _ nums2: [Int]) -> [Int] {
     result.append(nums)
     dict[nums] = count - 1
   }
-  typealias Thing = [String:Any]
-  var stuff: Thing
-  print(type(of: stuff))
   return result
 }
     
