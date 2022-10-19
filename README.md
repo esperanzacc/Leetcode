@@ -105,3 +105,11 @@ A list of problems I solved.
 51 - GroupAnagrams(49)
 
 52 - TwoSum(2ndVersion)(1)
+
+53 - ValidSudoku(36)
+
+54 - RotateImage(48)
+
+55 - ReverseString(344)
+
+56 - ReverseInteger(7)
