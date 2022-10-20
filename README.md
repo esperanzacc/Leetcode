@@ -106,14 +106,14 @@ A list of problems I solved.
 
 52 - TwoSum(2ndVersion)(1)
 
-53 - ValidSudoku(36)
+53 - (Array)ValidSudoku(36)
 
-54 - RotateImage(48)
+54 - (Array)RotateImage(48)
 
-55 - ReverseString(344)
+55 - (String)ReverseString(344)
 
-56 - ReverseInteger(7)
+56 - (String)ReverseInteger(7)
 
-57 - FirstUniqueCharacterInAString(387)
+57 - (String)FirstUniqueCharacterInAString(387)
 
-58 - DeleteNodeInALinkedList(237)
+58 - (LinkedLists)DeleteNodeInALinkedList(237)
