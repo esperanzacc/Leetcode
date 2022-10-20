@@ -113,3 +113,7 @@ A list of problems I solved.
 55 - ReverseString(344)
 
 56 - ReverseInteger(7)
+
+57 - FirstUniqueCharacterInAString(387)
+
+58 - DeleteNodeInALinkedList(237)
