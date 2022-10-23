@@ -117,3 +117,9 @@ A list of problems I solved.
 57 - (String)FirstUniqueCharacterInAString(387)
 
 58 - (LinkedLists)DeleteNodeInALinkedList(237)
+
+59- (Strings)ReverseString(344)
+
+60 - (Strings)ValidPalidrome(127)
+
+61 - (LinkedLists)RemoveNthNodeFromEndofList(19)
