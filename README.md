@@ -123,3 +123,7 @@ A list of problems I solved.
 60 - (Strings)ValidPalidrome(127)
 
 61 - (LinkedLists)RemoveNthNodeFromEndofList(19)
+
+62 - (Strings)ValidAnagram(242)
+
+
